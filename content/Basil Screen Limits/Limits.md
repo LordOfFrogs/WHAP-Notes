@@ -1,0 +1,6 @@
+- No [[Person 1#Twitter|Twitter]], [[Person 1#Instagram|Instagram]] might be ok after talk
+- Talk about [[Your worst nightmare#Youtube|Youtube]], otherwise fine
+- [[Discord]] seems pretty safe right now, but put in simple parental permissions, ask/find out about about new people messaging and new servers joined (login on account)
+	- I checked the settings, and the malicious content filters are on so if there's anything bad it should get blocked, though he can switch this off
+- I don't think any OS-level safeguards need to be added on computer
+- Keep safe-search on and disabling clear history and incognito mode with [Google Family Link](https://families.google/intl/en-GB_ALL/familylink/) 
