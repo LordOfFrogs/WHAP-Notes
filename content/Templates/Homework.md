@@ -1,6 +1,0 @@
----
-tags:
-due: 
-course: 
-status:
----

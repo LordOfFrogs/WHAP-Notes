@@ -71,7 +71,10 @@ const config: QuartzConfig = {
       Plugin.Description(),
       Plugin.HardLineBreaks(),
     ],
-    filters: [Plugin.RemoveDrafts(), Plugin.HistoryNotesFilter()],
+    filters: [
+      Plugin.RemoveDrafts(), 
+      //Plugin.HistoryNotesFilter()
+    ],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

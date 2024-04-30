@@ -1,5 +1,0 @@
----
-date:
-course:
-tags:
----
